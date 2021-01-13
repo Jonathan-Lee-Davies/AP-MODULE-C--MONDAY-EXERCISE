@@ -6,3 +6,4 @@ Repl.it link for exercise 3 (rectangleRoom): https://repl.it/@JonathanDavies/mon
 Repl.it link for exercise 4 (odds&Evens): https://repl.it/@JonathanDavies/mondayExercises#odds&Evens.cpp
 Repl.it link for exercise 5 (retirement): https://repl.it/@JonathanDavies/mondayExercises#retirement.cpp
 Repl.it link for exercise 6 (heartrate): https://repl.it/@JonathanDavies/mondayExercises#heartRate.cpp
+Repl.it link for exercise 7 (typeCounter): https://repl.it/@JonathanDavies/mondayExercises#typeCounter.cpp
